@@ -1,6 +1,7 @@
 [
 {
 		"sign": 3,
+		"imgUrl":"https://shaolynnbetts.com/7110/img/Gemini.png",
 		"sign_name": "Gemini",
 		"element": "Air",
 		"date_range": "May 21st - June 20th",
@@ -16,6 +17,7 @@
 	
 	{
 		"sign": 4,
+		"imgUrl":"https://shaolynnbetts.com/7110/img/Cancer.png",
 		"sign_name": "Cancer",
 		"element": "Water",
 		"date_range": "June 21st - July 22nd",
@@ -32,6 +34,7 @@
 	
 	{
 		"sign": 5,
+		"imgUrl":"https://shaolynnbetts.com/7110/img/Leo.png",
 		"sign_name": "Leo",
 		"element": "Fire",
 		"date_range": "July 23rd - August 22nd",
@@ -47,6 +50,7 @@
 	
 	{
 		"sign": 6,
+		"imgUrl":"https://shaolynnbetts.com/7110/img/Virgo.png",
 		"sign_name": "Virgo",
 		"element": "Earth",
 		"date_range": "August 23rd - September 22nd",
@@ -62,6 +66,7 @@
 	
 	{
 		"sign": 7,
+		"imgUrl":"https://shaolynnbetts.com/7110/img/Libra.png",
 		"sign_name": "Libra",
 		"element": "Air",
 		"date_range": "September 23rd - October 22nd",
@@ -77,6 +82,7 @@
 	
 	{
 		"sign": 8,
+		"imgUrl":"https://shaolynnbetts.com/7110/img/Scorpio.png",
 		"sign_name": "Scorpio",
 		"element": "Water",
 		"date_range": "October 23rd - November 21st",
@@ -92,6 +98,7 @@
 	
 	{
 		"sign": 9,
+		"imgUrl":"https://shaolynnbetts.com/7110/img/Sagittarius.png",
 		"sign_name": "Sagittarius",
 		"element": "Fire",
 		"date_range": "November 22nd - December 21st",
@@ -107,6 +114,7 @@
 	
 	{
 		"sign": 10,
+		"imgUrl":"https://shaolynnbetts.com/7110/img/Capricorn.png",
 		"sign_name": "Capricorn",
 		"element": "Earth",
 		"date_range": "December 22nd - January 19th",
@@ -121,6 +129,7 @@
 	},
 	{
 		"sign": 11,
+		"imgUrl":"https://shaolynnbetts.com/7110/img/Aquarius.png",
 		"sign_name": "Aquarius",
 		"element": "Air",
 		"date_range": "January 20th - February 18th",
@@ -135,6 +144,7 @@
 	},
 	{
 		"sign": 12,
+		"imgUrl":"https://shaolynnbetts.com/7110/img/Pisces.png",
 		"sign_name": "Pisces",
 		"element": "Water",
 		"date_range": "February 19th - March 20th",
@@ -150,6 +160,7 @@
 	},
 	{
 		"sign": 1,
+		"imgUrl":"https://shaolynnbetts.com/7110/img/Aries.png",
 		"sign_name": "Aries",
 		"element": "Fire",
 		"date_range": "March 21st - April 19th",
@@ -163,6 +174,7 @@
 	},
 	{
 		"sign": 2,
+		"imgUrl":"https://shaolynnbetts.com/7110/img/Taurus.png",
 		"sign_name": "Taurus",
 		"element": "Earth",
 		"date_range": "April 20th - May 20th",
