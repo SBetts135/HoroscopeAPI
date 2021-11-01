@@ -38,9 +38,10 @@
       "SUN"
     ],
     "numbers": "1, 3, 10, 19",
-    "prediction": "There is a proper way to help other people and it should not take away what you need the most. Plan something that will include your need to give, in a way that doesn’t disturb your inner peace and sense of security.
-
-Feel beautiful and create beauty in all aspects of life. You don’t have an outer fence to commit to when it is up to you to choose your direction and find the right source of inspiration.",
+    "prediction": ["There is a proper way to help other people and it should not take away what you need the most.",
+    "Plan something that will include your need to give, in a way that doesn’t disturb your inner peace and sense of security.",
+"Feel beautiful and create beauty in all aspects of life. You don’t have an outer fence to commit to when it is up to you to choose your direction and find the right source of inspiration."
+]
   },
   {
     "sign": 6,
@@ -51,11 +52,11 @@ Feel beautiful and create beauty in all aspects of life. You don’t have an out
     "MERCURY"
     ],
     "numbers": "4, 14, 15, 23, 32",
-    "prediction": "The more you think about something, the hazier it becomes. Instead of investing energy in your mind, invest it in your body and listen to physiology sending signals along the way. You already have all the answers within you. It would be a shame to miss out on them while holding on to stiff beliefs.
+    "prediction": ["The more you think about something, the hazier it becomes.",
+    "Instead of investing energy in your mind, invest it in your body and listen to physiology sending signals along the way. You already have all the answers within you. It would be a shame to miss out on them while holding on to stiff beliefs.",
+Flexibility can be improved by movement, stretching, yoga, and activity in general. If your routine is too static, do something to make a change and step out of it today."
 
-Flexibility can be improved by movement, stretching, yoga, and activity in general. If your routine is too static, do something to make a change and step out of it today.",
-
-
+]
   },
   {
     "sign": 7,
@@ -66,9 +67,10 @@ Flexibility can be improved by movement, stretching, yoga, and activity in gener
       "VENUS"
     ],
     "numbers": "4, 6, 13, 15, 24",
-    "prediction": "Knowledge comes and goes in waves. You still have trouble holding on to some of your own findings and it is becoming frustrating in environments where you cannot stick to the plan and expect positive change. Remind yourself that this gives you time to focus on areas of life that have been neglected.
-
-If you are romantically involved, this is a day of big dialogues when many things could finally be deciphered. Relationships with other people need to be powerless over your deepest partnerships.",
+    "prediction": ["Knowledge comes and goes in waves. You still have trouble holding on to some of your own findings and it is becoming frustrating in environments where you cannot stick to the plan and expect positive change.",
+    "Remind yourself that this gives you time to focus on areas of life that have been neglected.",
+"If you are romantically involved, this is a day of big dialogues when many things could finally be deciphered. Relationships with other people need to be powerless over your deepest partnerships."
+  ]
   },
   {
     "sign": 8,
@@ -80,9 +82,9 @@ If you are romantically involved, this is a day of big dialogues when many thing
       "MARS"
     ],
     "numbers": "8, 11, 18, 22",
-    "prediction": "Perspective that comes from resistance allows you to look at things that are less important and grand in your life, but you should still face the biggest problem you have today.
-
-Seek balance and instead of obsessing around what bothers you, make time for rest and activities that will recharge your batteries, while being realistic about the problem in the background.",
+    "prediction": ["Perspective that comes from resistance allows you to look at things that are less important and grand in your life, but you should still face the biggest problem you have today.",
+"Seek balance and instead of obsessing around what bothers you, make time for rest and activities that will recharge your batteries, while being realistic about the problem in the background."
+  ]
   },
   {
     "sign": 9,
@@ -93,9 +95,10 @@ Seek balance and instead of obsessing around what bothers you, make time for res
       "JUPITER"
     ],
     "numbers": "3, 7, 9, 12, 21",
-    "prediction": "There is enough width to your perspective and dialogues to clear the air and help mutual understanding between you and any other individual. However, you are not in the mood to discuss every segment of your life and need some time to process certain issues on your own as well.
-
-If work is making you restless, it is obviously time to step out of your comfort zone, even if you didn’t know you were in it until now. Make changes that are necessary for progress without much dilemma.",
+    "prediction": ["There is enough width to your perspective and dialogues to clear the air and help mutual understanding between you and any other individual.",
+    "However, you are not in the mood to discuss every segment of your life and need some time to process certain issues on your own as well.",
+"If work is making you restless, it is obviously time to step out of your comfort zone, even if you didn’t know you were in it until now. Make changes that are necessary for progress without much dilemma."
+  ]
   },
   {
     "sign": 10,
@@ -106,10 +109,11 @@ If work is making you restless, it is obviously time to step out of your comfort
       "SATURN"
     ],
     "numbers": "4, 8, 13, 22",
-    "prediction": "You have something nice to say to a loved one. Don’t hold your breath or question words spoken too much. There is truth to your perspective just as much as in anyone else’s, but you must believe in yourself in order to clear the air. There are simply things you don’t yet know that require more depth of contact.
-
-If you bump into resistance of any kind, change direction for the time being. You don’t have to put your head through a wall around matters that only require better timing.",
-  },
+    "prediction": "You have something nice to say to a loved one. Don’t hold your breath or question words spoken too much.",
+    "There is truth to your perspective just as much as in anyone else’s, but you must believe in yourself in order to clear the air. There are simply things you don’t yet know that require more depth of contact.",
+"If you bump into resistance of any kind, change direction for the time being. You don’t have to put your head through a wall around matters that only require better timing."
+ ]
+ },
   {
     "sign": 11,
     "sign_name": "Aquarius",
@@ -120,9 +124,9 @@ If you bump into resistance of any kind, change direction for the time being. Yo
       "SATURN"
     ],
     "numbers": "4, 7, 11, 22, 29",
-    "prediction": "You are willing to dig up things, understand what is beneath the surface, but you are not sure if this will be productive in the long run. Check your priorities first and see where your focus truly lies before embarking on a spontaneous spree to gather more information.
-
-You have things under control, as far as your responsibility goes. There is always a lot more to learn and you have no reason to doubt what has been done within your capacities up to this moment in time.",
+    "prediction": ["You are willing to dig up things, understand what is beneath the surface, but you are not sure if this will be productive in the long run. Check your priorities first and see where your focus truly lies before embarking on a spontaneous spree to gather more information.",
+"You have things under control, as far as your responsibility goes. There is always a lot more to learn and you have no reason to doubt what has been done within your capacities up to this moment in time."
+  ]
   },
   {
     "sign": 12,
@@ -134,9 +138,10 @@ You have things under control, as far as your responsibility goes. There is alwa
       "JUPITER"
     ],
     "numbers": "3, 9, 12, 15, 18, 24",
-    "prediction": "It won’t be easy to keep the focus. Keep your goal in mind so you don’t get distracted by too many things that aren’t your own to handle in the first place. Emotional debt and support you truly wish to give are two very different things. Separate them before giving your all to a problem of another.
-
-Relationships that make you or the person in front of you feel conditioned are on the line for change. It is impossible to keep the balance in a situation that requires anyone to leap over their own feelings.",
+    "prediction": ["It won’t be easy to keep the focus. Keep your goal in mind so you don’t get distracted by too many things that aren’t your own to handle in the first place.",
+    "Emotional debt and support you truly wish to give are two very different things. Separate them before giving your all to a problem of another.",
+    "Relationships that make you or the person in front of you feel conditioned are on the line for change. It is impossible to keep the balance in a situation that requires anyone to leap over their own feelings."
+ ]
   },
   {
     "sign": 1,
@@ -147,9 +152,9 @@ Relationships that make you or the person in front of you feel conditioned are o
     "MARS"
     ],
     "numbers": "1, 8, 17",
-    "prediction": "To show your usual initiative, you need proper surroundings, or you might end up frustrated once again. Perhaps solitude would set you free from certain problems and dilemmas but working within a partnership or a team could bring a lot more satisfaction down the road.
-
-Weigh your options carefully, paying attention to what needs to be discussed and what you should keep for yourself. In the process, let secrets of others remain hidden at any cost until you get the green light to speak about them.",
+    "prediction": ["To show your usual initiative, you need proper surroundings, or you might end up frustrated once again. Perhaps solitude would set you free from certain problems and dilemmas but working within a partnership or a team could bring a lot more satisfaction down the road.",
+"Weigh your options carefully, paying attention to what needs to be discussed and what you should keep for yourself. In the process, let secrets of others remain hidden at any cost until you get the green light to speak about them."
+  ]
   },
   {
     "sign": 2,
@@ -160,9 +165,9 @@ Weigh your options carefully, paying attention to what needs to be discussed and
     "VENUS"
     ],
     "numbers": "2, 6, 9, 12, 24",
-    "prediction": "Potential and opportunities are really a lot wider than you thought. Don’t limit yourself by lack of investment into a direction that feels right and potentially leads to success.
-
-If you are pushed into situations you wish to avoid, speak your mind. Balance can be found in any surroundings if you give a clear image about your own needs."
+    "prediction": ["Potential and opportunities are really a lot wider than you thought. Don’t limit yourself by lack of investment into a direction that feels right and potentially leads to success.",
+"If you are pushed into situations you wish to avoid, speak your mind. Balance can be found in any surroundings if you give a clear image about your own needs."
+]
   }
 ]
 
