@@ -62,14 +62,10 @@
 		"sign_name": "Scorpio",
 		"element": "Water",
 		"date_range": "October 23rd - November 21st",
-		"planet": [
-			"PLUTO",
-			"MARS"
-		],
+		"planet": "PLUTO & MARS",
 		"numbers": "8, 11, 18, 22",
-		"prediction": ["Perspective that comes from resistance allows you to look at things that are less important and grand in your life, but you should still face the biggest problem you have today.",
-			"Seek balance and instead of obsessing around what bothers you, make time for rest and activities that will recharge your batteries, while being realistic about the problem in the background."
-		]
+		"prediction": "Perspective that comes from resistance allows you to look at things that are less important and grand in your life, but you should still face the biggest problem you have today. Seek balance and instead of obsessing around what bothers you, make time for rest and activities that will recharge your batteries, while being realistic about the problem in the background."
+		
 	},
 	
 	{
@@ -78,14 +74,10 @@
 		"sign_name": "Sagittarius",
 		"element": "Fire",
 		"date_range": "November 22nd - December 21st",
-		"planet": [
-			"JUPITER"
-		],
+		"planet": "JUPITER",
 		"numbers": "3, 7, 9, 12, 21",
-		"prediction": ["There is enough width to your perspective and dialogues to clear the air and help mutual understanding between you and any other individual.",
-			"However, you are not in the mood to discuss every segment of your life and need some time to process certain issues on your own as well.",
-			"If work is making you restless, it is obviously time to step out of your comfort zone, even if you didn’t know you were in it until now. Make changes that are necessary for progress without much dilemma."
-		]
+		"prediction": "There is enough width to your perspective and dialogues to clear the air and help mutual understanding between you and any other individual. However, you are not in the mood to discuss every segment of your life and need some time to process certain issues on your own as well. If work is making you restless, it is obviously time to step out of your comfort zone, even if you didn’t know you were in it until now. Make changes that are necessary for progress without much dilemma."
+
 	},
 	
 	{
